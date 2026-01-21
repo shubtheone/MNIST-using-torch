@@ -7,3 +7,4 @@ Publicly available MNIST CSV dataset as provided by [Joseph Redmon]. The
 remaining 784 values are the pixel values (a number from 0 to 255).
 
 [Joseph Redmon]: https://pjreddie.com/projects/mnist-in-csv
+# MNIST-using-torch
